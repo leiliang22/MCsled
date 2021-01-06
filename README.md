@@ -1,2 +1,2 @@
-# MCsled
+# mcsled
 learn sled
