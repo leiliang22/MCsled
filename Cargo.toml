@@ -1,5 +1,5 @@
 [package]
-name = "MCsled"
+name = "mcsled"
 version = "0.1.0"
 authors = ["leiliang22 <leiliang835@163.com>"]
 edition = "2018"
